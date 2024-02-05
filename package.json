@@ -1,0 +1,25 @@
+{
+  "name": "react_advance_tailwind_table",
+  "version": "1.0.0",
+  "description": "create responsive and modern tailwind tables with ease ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wixarm/npm-tailwind-table.git"
+  },
+  "keywords": [
+    "table",
+    "responsive_table",
+    "tailwind_table",
+    "auto_table"
+  ],
+  "author": "Arman tarhani doreh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wixarm/npm-tailwind-table/issues"
+  },
+  "homepage": "https://github.com/wixarm/npm-tailwind-table#readme"
+}
